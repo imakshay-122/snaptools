@@ -6,11 +6,11 @@ import QuickLinks from "./ui/quick-links";
 import ScrollToTop from "./ui/scroll-to-top";
 
 const socialLinks = [
-  { icon: Facebook, href: "#", label: "Facebook" },
-  { icon: Twitter, href: "https://x.com/iam_sandipmaity", label: "Twitter" },
-  { icon: Instagram, href: "https://instagram.com/iam_sandipmaity", label: "Instagram" },
-  { icon: Linkedin, href: "https://linkedin.com/in/iam_sandipmaity", label: "LinkedIn" },
-  { icon: Github, href: "https://github.com/iam-sandipmaity/", label: "GitHub"},
+  { icon: Facebook, href: "https://www.facebook.com/share/1CC453VyiL/", label: "Facebook" },
+  { icon: Twitter, href: "https://x.com/", label: "Twitter" },
+  { icon: Instagram, href: "https://instagram.com/akshay.maity.7543", label: "Instagram" },
+  { icon: Linkedin, href: "https://linkedin.com/in/akshay-maity-9513b8308", label: "LinkedIn" },
+  { icon: Github, href: "https://github.com/imakshay-122/", label: "GitHub"},
 ];
 
 const Footer = () => {
