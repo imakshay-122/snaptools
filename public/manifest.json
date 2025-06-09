@@ -1,0 +1,26 @@
+{
+  "name": "SnapTools",
+  "short_name": "SnapTools",
+  "description": "100+ Free Development & Productivity Tools | All-in-One Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "developer tools",
+    "productivity",
+    "utilities"
+  ],
+  "orientation": "any",
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
